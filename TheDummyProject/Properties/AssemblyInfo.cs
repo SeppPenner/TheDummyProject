@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("TheDummyProject")]
 [assembly: AssemblyCompany("Hämmer Electronics")]
 [assembly: AssemblyProduct("TheDummyProject")]
-[assembly: AssemblyCopyright("Copyright © Hämmer Electronics 2017")]
+[assembly: AssemblyCopyright("Copyright © Hämmer Electronics")]
 [assembly: AssemblyTrademark("TheDummyProject")]
 [assembly: AssemblyCulture("")]
 
@@ -35,5 +35,5 @@ using System.Runtime.InteropServices;
 // übernehmen, indem Sie "*" eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]
