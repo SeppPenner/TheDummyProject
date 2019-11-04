@@ -8,7 +8,7 @@ The executable was written and tested in .Net 4.8.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TheDummyProject.svg)](https://github.com/SeppPenner/TheDummyProject/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/TheDummyProject.svg)](https://github.com/SeppPenner/TheDummyProject/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/TheDummyProject.svg)](https://github.com/SeppPenner/TheDummyProject/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TheDummyProject/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TheDummyProject/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/TheDummyProject/badge.svg)](https://snyk.io/test/github/SeppPenner/TheDummyProject)
 
 Change history
